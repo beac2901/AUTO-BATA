@@ -9,7 +9,7 @@ Realizzazione del sito web della concessionaria **Auto Bata**, sviluppato in **H
 * **Project Manager:** Beatrice Capasso, Home
 * **Sviluppatori:**
   * Tommaso Ciervo, Auto Nuove
-  * Alice Ruggieri, Auto Usate
+  * Alice Ruggeri, Auto Usate
   * Andrei Vlad, Contatti
 
 ---
